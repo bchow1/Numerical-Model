@@ -7,3 +7,11 @@ Data analysis and processing utilities for numerical models
 
 * ETEX
 ![alt text](https://github.com/bchow1/Numerical-Model/blob/master/SCICHEM/Validation/ScreenShots/ETEX.png "ETEX")
+
+
+* Summary
+![alt text](https://github.com/bchow1/Numerical-Model/blob/master/SCICHEM/Validation/ScreenShots/Summary.png "Summay")
+
+
+* Comparision
+![alt text](https://github.com/bchow1/Numerical-Model/blob/master/SCICHEM/Validation/ScreenShots/BullRun.png "BullRun")
