@@ -8,18 +8,23 @@ Data analysis and processing utilities for numerical models
 "Average Concentration Contour Plot")
 
 ## Validation
-* Validation Example
+
+* Comparison plots for native co-ordinate project 
+
 ![alt text](https://github.com/bchow1/Numerical-Model/blob/master/SCICHEM/Validation/ScreenShots/nativeCoord.png "Native Coord")
 
-* ETEX
+* Comparison plots for European Tracer Experiment
+
 ![alt text](https://github.com/bchow1/Numerical-Model/blob/master/SCICHEM/Validation/ScreenShots/ETEX.png "ETEX")
 
 
-* Summary
+* Overall summary table 
+
 ![alt text](https://github.com/bchow1/Numerical-Model/blob/master/SCICHEM/Validation/ScreenShots/Summary.png "Summay")
 
 
-* Comparision
+* Comparison of statistical output for BullRun EPRI Study
+
 ![alt text](https://github.com/bchow1/Numerical-Model/blob/master/SCICHEM/Validation/ScreenShots/BullRun.png "BullRun")
 
-## 
+
